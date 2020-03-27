@@ -3,7 +3,7 @@
 <title>hello world with HTML</title>
 </head>
 <body>
-<p>HELLO WORLD</p>
+<p>HELLO WORLD -- edited part</p>
 </body>
 
 </html>
